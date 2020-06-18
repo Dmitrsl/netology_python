@@ -1,7 +1,7 @@
 # PYDA-11 Python для анализа данных
 
 ## Create a new repository on the command line
-echo "# netology_python" >> README.md
+
 git init
 git add README.md
 git commit -m "first commit"
